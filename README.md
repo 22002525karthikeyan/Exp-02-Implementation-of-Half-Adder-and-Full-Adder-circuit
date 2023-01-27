@@ -72,6 +72,10 @@ endmodule
 
 ![](fa2.png)
 
+## TRUTH TABLE
+![](HATT.png)
+![](FATT.png)
+
 
 ### Result:
   Therefore,half adder and full adder is verified  
